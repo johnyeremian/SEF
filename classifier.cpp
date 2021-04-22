@@ -12,4 +12,8 @@ class Classifier
 	{
 		printf("The name of this function is train()");
 	}
+	predict()
+	{
+		printf("The name of this function is predict()"):
+	}
 };
