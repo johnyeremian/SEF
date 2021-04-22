@@ -8,4 +8,8 @@
 class Classifier
 {
 	int data = 0;
+	train()
+	{
+		printf("The name of this function is train()");
+	}
 };
